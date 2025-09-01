@@ -2,7 +2,7 @@
 # 🚖 OLA Booking Analysis – Data Analytics Project  
 
 ## 📌 Project Overview  
-This project is a **real-world analytics case study** inspired by the ride-sharing industry. The goal was to analyze OLA booking data, identify key trends, understand customer/driver behavior, and create **interactive dashboards** for decision-making.  
+This project is a **End-to-End** **real-world analytics case study** inspired by the ride-sharing industry. The goal was to analyze OLA booking data, identify key trends, understand customer/driver behavior, and create **interactive dashboards** for decision-making.  
 
 The project covers the **end-to-end analytics workflow**:  
 1. **Data Extraction & Cleaning (SQL)**  
